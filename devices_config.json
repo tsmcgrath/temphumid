@@ -13,6 +13,6 @@
     "purpose": "ramada measurements",
     "location": "ramada"},
     {"device-id": 5,
-    "purpose": "soil 1 measurements",
-    "location": "soil 1"}]
+    "purpose": "kitchen measurements",
+    "location": "kitchen"}]
 }
