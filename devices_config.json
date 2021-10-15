@@ -1,0 +1,18 @@
+{
+  "devices": [
+    {"device-id": 1,
+    "purpose": "mobile measurements",
+    "location": "mobile"},
+    {"device-id": 2,
+    "purpose": "office measurements",
+    "location": "office"},
+    {"device-id": 3,
+    "purpose": "garage measurements",
+    "location": "garage"},
+    {"device-id": 4,
+    "purpose": "ramada measurements",
+    "location": "ramada"},
+    {"device-id": 5,
+    "purpose": "soil 1 measurements",
+    "location": "soil 1"}]
+}
