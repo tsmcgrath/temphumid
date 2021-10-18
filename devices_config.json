@@ -14,5 +14,11 @@
     "location": "ramada"},
     {"device-id": 5,
     "purpose": "kitchen measurements",
-    "location": "kitchen"}]
+    "location": "kitchen",
+    "history": {"changeddate": "2021-10-15T12:00:00Z", 
+      "former_purpose": "soil 1 measurements",
+      "former_location": "soil 1",
+      "change_description": "Moved from garden to kitchen"
+      }
+    }]
 }
